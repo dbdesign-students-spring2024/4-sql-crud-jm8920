@@ -76,8 +76,9 @@ CREATE TABLE users(
     id INTEGER PRIMARY KEY,
     email TEXT,
     username TEXT,
-    password TEXT,
+    password TEXT
 );
+
 ```
 ```sql
 CREATE TABLE posts (
@@ -110,8 +111,8 @@ insert into users (email, username, password)
 ```
 2. Create a new Message sent by a particular User to a particular User (pick any two Users for example).
 ```sql
-insert into posts (post_type, sender, recipient, content, post_time, is_visible )
-    values ('message', 'mjarvisf', 'lwittletonf', 'Nice to meet you!!!','2023/3/19 06:48', TRUE);
+INSERT INTO posts (post_type, sender, recipient, content, post_time, is_visible)
+VALUES ('message', 'mjarvisf', 'lwittletonf', 'Nice to meet you!!!', '2023-03-19 06:48', TRUE);
 ```
 
 3. Create a new Story by a particular User (pick any User for example).
