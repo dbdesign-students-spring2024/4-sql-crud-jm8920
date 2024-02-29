@@ -148,10 +148,9 @@ ROUND((JULIANDAY('now') - JULIANDAY(post_time)) * 24) > 24;
 
 7. Show all invisible Messages and Stories, in order of recency.
 ```sql
-SELECT post_id, post_type, sender, recipient, content, post_time, is_visible, 
-ROUND((JULIANDAY('now') - JULIANDAY(post_time)) * 24) AS hours_ago from posts
+SELECT * FROM posts
 WHERE is_visible = 0
-ORDER BY post_time DESC;
+ORDER BY datetime(post_time) DESC;
 ```
 8. Show the number of posts by each User.
 ```sql
