@@ -72,12 +72,12 @@ I create a database called restaurants.db.
 sqlite3 socialmedia.db
 ```
 ```sql
-create table users(
+CREATE TABLE users(
     id INTEGER PRIMARY KEY,
     email TEXT,
     username TEXT,
     password TEXT,
-)
+);
 ```
 ```sql
 CREATE TABLE posts (
