@@ -1,0 +1,1001 @@
+restaurant_id,name,category,price_tier,neighborhood,opening_time,closing_time,average_rating,good_for_kids
+1,Deli Delight,Korean,expensive,Bronx,11:30,16:00,3,false
+2,Sweet Treats Bakery,Italian,cheap,Queens,9:00,16:00,4,false
+3,Ocean Breeze Seafood,Korean,cheap,Astoria,12:00,21:00,4,true
+4,The Breakfast Nook,Mediterranean,expensive,Manhattan,12:00,16:00,4,false
+5,Smokehouse BBQ,Japanese,cheap,Harlem,10:30,16:00,3,true
+6,Sizzle Grill,Chinese,medium,Harlem,10:00,17:00,4,true
+7,The Coffee House,Korean,medium,Harlem,11:30,16:00,1,false
+8,Pizza Palace,Italian,cheap,Williamsburg,10:00,17:00,5,true
+9,The Cheesecake Factory,Korean,expensive,Harlem,10:00,16:00,5,false
+10,The Cheesecake Factory,Chinese,medium,Manhattan,9:30,19:00,2,false
+11,Taco Town,Mediterranean,expensive,Bronx,10:00,20:00,1,false
+12,Sweet Treats Bakery,Korean,cheap,Williamsburg,10:30,20:00,5,false
+13,Burger Haven,Indian,medium,Astoria,9:30,18:00,5,true
+14,Sweet Treats Bakery,Korean,cheap,Brooklyn,12:00,17:00,5,false
+15,Taco Town,Mediterranean,expensive,Manhattan,12:00,17:00,1,false
+16,Wok n Roll,Korean,medium,Manhattan,9:00,20:00,3,false
+17,The Coffee House,Chinese,expensive,Williamsburg,11:00,17:00,4,true
+18,Taste of India,Mexican,cheap,Park Slope,9:30,18:00,1,false
+19,Sizzle Grill,Japanese,medium,Astoria,11:00,16:00,5,true
+20,The Spice Route,Indian,cheap,Park Slope,11:30,19:00,5,false
+21,Sushi Samurai,Indian,medium,Astoria,10:00,16:00,4,true
+22,The Cheesecake Factory,Korean,cheap,Park Slope,9:30,20:00,1,true
+23,Sweet Treats Bakery,Mediterranean,medium,Staten Island,10:00,21:00,2,true
+24,Taco Town,Mexican,expensive,Brooklyn,9:30,19:00,1,true
+25,Green Leaf Salad Bar,Indian,cheap,Queens,12:00,17:00,2,true
+26,The Cheesecake Factory,Chinese,medium,Park Slope,9:30,17:00,1,false
+27,Wok n Roll,Korean,expensive,Bronx,9:30,19:00,2,true
+28,Sizzle Grill,Mexican,cheap,Brooklyn,9:30,18:00,1,false
+29,Pasta Paradise,Indian,medium,Park Slope,10:30,16:00,2,true
+30,The Coffee House,Italian,medium,Astoria,11:00,21:00,1,false
+31,Taco Town,Mediterranean,cheap,Harlem,9:00,21:00,2,true
+32,The Cheesecake Factory,Mediterranean,medium,Astoria,9:30,20:00,4,true
+33,Ocean Breeze Seafood,Chinese,medium,Manhattan,11:00,20:00,5,true
+34,The Coffee House,Chinese,cheap,Bronx,12:00,18:00,3,true
+35,The Cheesecake Factory,Italian,medium,Manhattan,11:00,20:00,1,true
+36,The Cheesecake Factory,Chinese,expensive,Staten Island,10:30,16:00,2,false
+37,Mama Mia's Pizzeria,Korean,cheap,Harlem,9:30,17:00,4,true
+38,Sizzle Grill,Chinese,medium,Harlem,11:30,17:00,3,false
+39,Pizza Palace,Chinese,medium,Brooklyn,10:30,18:00,5,false
+40,The Breakfast Nook,Chinese,cheap,Astoria,10:30,21:00,2,true
+41,Pasta Paradise,Korean,expensive,Park Slope,9:00,20:00,2,true
+42,Mama Mia's Pizzeria,Mediterranean,expensive,Bronx,11:30,16:00,4,false
+43,Burger Haven,Indian,expensive,Staten Island,12:00,20:00,1,false
+44,Pasta Paradise,Korean,cheap,Harlem,12:00,18:00,1,true
+45,Cafe Luna,Korean,expensive,Queens,11:30,17:00,3,false
+46,Ocean Breeze Seafood,Korean,cheap,Harlem,9:30,16:00,5,true
+47,Mama Mia's Pizzeria,Korean,cheap,Harlem,10:00,19:00,1,true
+48,Taste of India,Italian,cheap,Manhattan,11:30,17:00,3,false
+49,Cafe Luna,Mediterranean,medium,Staten Island,12:00,19:00,1,false
+50,Taste of India,Mediterranean,cheap,Harlem,10:00,19:00,4,false
+51,Pasta Paradise,Japanese,cheap,Harlem,10:30,17:00,3,false
+52,Pasta Paradise,Mediterranean,expensive,Astoria,10:00,20:00,4,true
+53,Mama Mia's Pizzeria,Indian,medium,Brooklyn,9:30,17:00,1,true
+54,Sweet Treats Bakery,Mediterranean,cheap,Park Slope,9:30,17:00,1,false
+55,Green Leaf Salad Bar,Korean,medium,Brooklyn,12:00,19:00,5,true
+56,Cafe Luna,Chinese,cheap,Staten Island,10:00,17:00,1,false
+57,Taco Town,Italian,cheap,Staten Island,9:00,20:00,3,false
+58,Deli Delight,Japanese,expensive,Greenwich Village,9:30,20:00,1,false
+59,Smokehouse BBQ,Korean,medium,Manhattan,9:30,20:00,4,false
+60,Smokehouse BBQ,Japanese,expensive,Harlem,11:00,17:00,1,true
+61,Burger Haven,Italian,cheap,Staten Island,10:00,21:00,5,true
+62,Taste of India,Italian,cheap,Staten Island,10:00,20:00,1,false
+63,Mama Mia's Pizzeria,Mexican,medium,Park Slope,9:00,21:00,1,false
+64,Sweet Treats Bakery,Mediterranean,expensive,Queens,9:30,16:00,3,false
+65,The Cheesecake Factory,Indian,medium,Harlem,10:00,17:00,5,true
+66,Sweet Treats Bakery,Mediterranean,expensive,Greenwich Village,11:00,21:00,2,false
+67,Taste of India,Italian,cheap,Bronx,11:30,17:00,4,false
+68,Deli Delight,Indian,medium,Bronx,9:30,18:00,2,true
+69,Cafe Luna,Indian,expensive,Manhattan,11:00,17:00,3,true
+70,The Hungry Owl,Japanese,expensive,Park Slope,9:00,20:00,1,false
+71,Sweet Treats Bakery,Mexican,medium,Harlem,11:30,20:00,3,false
+72,Mama Mia's Pizzeria,Japanese,cheap,Brooklyn,11:00,16:00,2,true
+73,The Spice Route,Indian,medium,Manhattan,9:00,20:00,5,true
+74,Mama Mia's Pizzeria,Indian,expensive,Queens,10:00,20:00,2,true
+75,Cafe Luna,Mexican,cheap,Greenwich Village,10:30,20:00,3,true
+76,Taco Town,Japanese,medium,Brooklyn,9:30,21:00,4,true
+77,Cafe Luna,Korean,cheap,Park Slope,9:00,20:00,2,true
+78,The Coffee House,Indian,expensive,Greenwich Village,11:00,21:00,5,true
+79,Burger Haven,Korean,expensive,Park Slope,10:30,18:00,3,false
+80,The Cheesecake Factory,Korean,medium,Queens,9:30,17:00,2,false
+81,Ocean Breeze Seafood,Mexican,expensive,Harlem,11:00,19:00,2,false
+82,Wok n Roll,Korean,medium,Greenwich Village,12:00,16:00,2,false
+83,Sizzle Grill,Indian,medium,Park Slope,9:30,18:00,3,false
+84,Wok n Roll,Mediterranean,cheap,Harlem,9:30,17:00,5,false
+85,Wok n Roll,Chinese,medium,Brooklyn,10:00,21:00,4,true
+86,Pasta Paradise,Italian,cheap,Bronx,10:30,17:00,5,false
+87,Sweet Treats Bakery,Mexican,cheap,Greenwich Village,12:00,19:00,5,false
+88,Green Leaf Salad Bar,Chinese,expensive,Astoria,10:30,18:00,1,true
+89,Green Leaf Salad Bar,Korean,medium,Park Slope,11:00,18:00,2,false
+90,Cafe Luna,Chinese,expensive,Harlem,10:30,17:00,4,true
+91,Pasta Paradise,Chinese,cheap,Williamsburg,12:00,20:00,4,true
+92,Sweet Treats Bakery,Mediterranean,expensive,Queens,11:30,18:00,4,false
+93,Sweet Treats Bakery,Mexican,expensive,Greenwich Village,9:00,18:00,3,false
+94,Pasta Paradise,Japanese,cheap,Astoria,11:30,21:00,1,false
+95,Taco Town,Indian,cheap,Williamsburg,9:30,19:00,2,true
+96,Green Leaf Salad Bar,Italian,cheap,Bronx,9:30,18:00,3,false
+97,Sweet Treats Bakery,Japanese,medium,Astoria,12:00,17:00,3,true
+98,Pizza Palace,Mediterranean,cheap,Williamsburg,9:30,17:00,5,true
+99,Green Leaf Salad Bar,Indian,medium,Harlem,10:00,16:00,1,true
+100,Taste of India,Indian,cheap,Staten Island,12:00,20:00,1,false
+101,Wok n Roll,Indian,cheap,Staten Island,12:00,17:00,2,false
+102,Deli Delight,Italian,cheap,Park Slope,11:00,20:00,4,true
+103,Taco Town,Chinese,expensive,Manhattan,9:30,16:00,2,true
+104,Sizzle Grill,Chinese,expensive,Brooklyn,9:30,19:00,1,false
+105,Sweet Treats Bakery,Mediterranean,cheap,Greenwich Village,11:00,20:00,1,false
+106,Smokehouse BBQ,Chinese,medium,Park Slope,11:30,17:00,5,false
+107,Taco Town,Indian,expensive,Brooklyn,10:00,20:00,3,false
+108,Ocean Breeze Seafood,Japanese,cheap,Williamsburg,10:30,18:00,3,true
+109,Deli Delight,Korean,expensive,Staten Island,12:00,20:00,5,true
+110,Sweet Treats Bakery,Chinese,medium,Park Slope,9:00,18:00,5,true
+111,The Hungry Owl,Chinese,medium,Staten Island,11:00,20:00,3,false
+112,The Hungry Owl,Mexican,medium,Harlem,9:00,19:00,2,false
+113,Smokehouse BBQ,Italian,medium,Harlem,11:30,18:00,5,true
+114,Burger Haven,Mediterranean,medium,Staten Island,11:30,19:00,5,false
+115,Taco Town,Chinese,cheap,Brooklyn,10:00,16:00,2,false
+116,Wok n Roll,Mexican,cheap,Greenwich Village,11:30,17:00,4,true
+117,Deli Delight,Mexican,medium,Manhattan,11:30,21:00,2,true
+118,The Coffee House,Indian,medium,Manhattan,10:00,20:00,5,true
+119,Wok n Roll,Japanese,medium,Bronx,9:30,19:00,5,true
+120,The Cheesecake Factory,Chinese,cheap,Queens,11:30,19:00,2,false
+121,Pizza Palace,Mediterranean,expensive,Queens,9:00,20:00,4,false
+122,The Spice Route,Indian,medium,Williamsburg,10:30,18:00,2,true
+123,Mama Mia's Pizzeria,Indian,cheap,Park Slope,9:00,16:00,2,false
+124,Green Leaf Salad Bar,Italian,expensive,Staten Island,10:00,19:00,3,false
+125,Ocean Breeze Seafood,Mexican,expensive,Park Slope,11:30,17:00,4,true
+126,Sweet Treats Bakery,Mediterranean,expensive,Brooklyn,11:00,16:00,2,true
+127,The Spice Route,Mediterranean,expensive,Park Slope,11:30,16:00,3,false
+128,Pizza Palace,Indian,medium,Harlem,12:00,21:00,5,true
+129,Green Leaf Salad Bar,Mexican,medium,Astoria,9:00,17:00,2,true
+130,Pizza Palace,Indian,cheap,Manhattan,9:00,17:00,4,false
+131,Sweet Treats Bakery,Chinese,medium,Manhattan,9:30,17:00,2,false
+132,Pizza Palace,Korean,cheap,Manhattan,9:00,17:00,2,false
+133,Green Leaf Salad Bar,Japanese,cheap,Bronx,9:30,20:00,1,false
+134,Pizza Palace,Mediterranean,medium,Manhattan,10:00,16:00,3,true
+135,Mama Mia's Pizzeria,Japanese,medium,Williamsburg,9:30,19:00,4,false
+136,Pizza Palace,Mexican,medium,Brooklyn,9:00,19:00,5,true
+137,Taste of India,Indian,expensive,Staten Island,9:00,21:00,4,true
+138,Sizzle Grill,Mediterranean,medium,Manhattan,10:00,21:00,3,true
+139,Mama Mia's Pizzeria,Mediterranean,medium,Greenwich Village,11:00,17:00,2,true
+140,Pizza Palace,Indian,medium,Bronx,11:30,17:00,1,false
+141,Sweet Treats Bakery,Mediterranean,cheap,Bronx,12:00,19:00,2,false
+142,Wok n Roll,Mexican,expensive,Williamsburg,11:00,21:00,4,false
+143,Sweet Treats Bakery,Mediterranean,medium,Greenwich Village,10:30,16:00,2,false
+144,The Cheesecake Factory,Chinese,expensive,Staten Island,9:30,16:00,5,false
+145,Pasta Paradise,Korean,cheap,Manhattan,12:00,21:00,3,true
+146,The Coffee House,Italian,expensive,Bronx,10:00,20:00,1,true
+147,Green Leaf Salad Bar,Mexican,medium,Manhattan,9:30,19:00,4,true
+148,Taste of India,Japanese,expensive,Bronx,11:00,21:00,1,true
+149,Cafe Luna,Indian,medium,Bronx,10:30,16:00,2,true
+150,The Coffee House,Korean,medium,Bronx,10:30,19:00,5,false
+151,Pasta Paradise,Italian,cheap,Staten Island,11:30,18:00,2,false
+152,Mama Mia's Pizzeria,Japanese,cheap,Park Slope,11:00,19:00,3,true
+153,Taste of India,Mexican,cheap,Bronx,11:00,20:00,3,true
+154,The Breakfast Nook,Italian,cheap,Queens,9:00,19:00,4,true
+155,Taco Town,Korean,expensive,Manhattan,11:30,19:00,1,true
+156,The Breakfast Nook,Chinese,medium,Park Slope,11:30,19:00,5,true
+157,Smokehouse BBQ,Italian,cheap,Park Slope,10:30,21:00,5,true
+158,Pizza Palace,Korean,expensive,Staten Island,12:00,19:00,1,true
+159,Sweet Treats Bakery,Japanese,expensive,Astoria,9:00,18:00,3,false
+160,Wok n Roll,Korean,medium,Park Slope,9:30,21:00,1,true
+161,Sushi Samurai,Mediterranean,cheap,Astoria,12:00,19:00,3,false
+162,Burger Haven,Italian,medium,Staten Island,11:30,20:00,3,false
+163,Taco Town,Korean,medium,Williamsburg,11:30,21:00,5,true
+164,Green Leaf Salad Bar,Japanese,cheap,Brooklyn,11:30,17:00,1,false
+165,Deli Delight,Chinese,expensive,Williamsburg,9:30,17:00,4,false
+166,Taste of India,Indian,cheap,Williamsburg,10:30,17:00,2,true
+167,Pizza Palace,Indian,cheap,Park Slope,12:00,18:00,1,true
+168,Sizzle Grill,Indian,cheap,Williamsburg,10:00,21:00,3,true
+169,Ocean Breeze Seafood,Indian,medium,Queens,11:00,17:00,5,false
+170,Sizzle Grill,Korean,medium,Brooklyn,10:00,17:00,4,false
+171,Ocean Breeze Seafood,Chinese,expensive,Queens,9:30,18:00,2,true
+172,Smokehouse BBQ,Mediterranean,medium,Manhattan,9:00,17:00,4,true
+173,Pizza Palace,Mediterranean,expensive,Harlem,10:30,21:00,5,true
+174,Mama Mia's Pizzeria,Korean,medium,Williamsburg,12:00,20:00,3,true
+175,Wok n Roll,Japanese,medium,Brooklyn,11:00,19:00,3,true
+176,Cafe Luna,Indian,cheap,Bronx,9:30,21:00,4,false
+177,Taste of India,Mediterranean,expensive,Astoria,12:00,18:00,1,false
+178,The Coffee House,Chinese,expensive,Staten Island,12:00,16:00,3,true
+179,Mama Mia's Pizzeria,Indian,cheap,Harlem,9:30,20:00,2,true
+180,The Hungry Owl,Mediterranean,medium,Williamsburg,9:30,18:00,2,false
+181,The Coffee House,Chinese,expensive,Park Slope,11:00,19:00,1,false
+182,Wok n Roll,Italian,cheap,Williamsburg,10:00,17:00,2,false
+183,The Cheesecake Factory,Mediterranean,cheap,Staten Island,11:00,21:00,3,false
+184,The Hungry Owl,Korean,expensive,Staten Island,11:30,20:00,1,true
+185,Taste of India,Mexican,medium,Park Slope,10:30,18:00,4,true
+186,Ocean Breeze Seafood,Japanese,expensive,Greenwich Village,9:30,16:00,1,false
+187,Sizzle Grill,Korean,cheap,Bronx,10:30,16:00,4,true
+188,Pizza Palace,Mexican,expensive,Brooklyn,9:30,19:00,3,true
+189,Sizzle Grill,Chinese,expensive,Queens,10:00,19:00,1,false
+190,Taco Town,Indian,expensive,Queens,10:00,19:00,4,false
+191,Sizzle Grill,Korean,cheap,Williamsburg,11:00,16:00,3,true
+192,The Cheesecake Factory,Italian,cheap,Harlem,10:00,21:00,1,true
+193,Taste of India,Mediterranean,expensive,Brooklyn,12:00,20:00,4,false
+194,The Cheesecake Factory,Mediterranean,cheap,Greenwich Village,10:30,17:00,3,false
+195,Taco Town,Japanese,medium,Williamsburg,11:30,18:00,4,false
+196,Taco Town,Italian,expensive,Astoria,12:00,16:00,5,false
+197,Sweet Treats Bakery,Korean,cheap,Brooklyn,9:00,17:00,2,true
+198,The Breakfast Nook,Japanese,cheap,Brooklyn,11:30,20:00,5,false
+199,Deli Delight,Indian,expensive,Bronx,9:30,17:00,1,true
+200,The Cheesecake Factory,Korean,cheap,Queens,11:30,17:00,4,true
+201,The Cheesecake Factory,Chinese,cheap,Bronx,10:00,21:00,4,true
+202,Wok n Roll,Korean,medium,Manhattan,10:00,17:00,2,true
+203,Mama Mia's Pizzeria,Indian,cheap,Brooklyn,9:30,18:00,3,false
+204,Pizza Palace,Korean,medium,Queens,9:00,17:00,3,true
+205,Sizzle Grill,Japanese,cheap,Manhattan,9:30,19:00,5,true
+206,Mama Mia's Pizzeria,Mexican,expensive,Astoria,10:30,18:00,2,true
+207,Cafe Luna,Mediterranean,medium,Astoria,11:00,17:00,4,false
+208,Taste of India,Italian,expensive,Williamsburg,12:00,17:00,5,true
+209,Smokehouse BBQ,Indian,medium,Park Slope,11:00,21:00,3,true
+210,Sweet Treats Bakery,Italian,expensive,Harlem,10:00,21:00,2,false
+211,The Hungry Owl,Japanese,expensive,Williamsburg,11:00,17:00,4,true
+212,Cafe Luna,Chinese,cheap,Manhattan,11:00,17:00,4,false
+213,The Spice Route,Japanese,medium,Park Slope,9:00,18:00,4,false
+214,Wok n Roll,Japanese,expensive,Staten Island,9:00,17:00,3,true
+215,Taco Town,Italian,cheap,Manhattan,11:00,21:00,2,true
+216,The Spice Route,Mexican,medium,Manhattan,9:00,19:00,1,false
+217,Pasta Paradise,Korean,cheap,Brooklyn,10:30,17:00,2,true
+218,Taco Town,Indian,cheap,Williamsburg,10:30,16:00,1,true
+219,Sweet Treats Bakery,Mexican,cheap,Greenwich Village,10:30,19:00,5,true
+220,The Spice Route,Mexican,medium,Harlem,10:30,18:00,4,true
+221,Mama Mia's Pizzeria,Mediterranean,expensive,Greenwich Village,10:00,19:00,4,false
+222,Taste of India,Indian,cheap,Astoria,10:30,21:00,2,false
+223,Green Leaf Salad Bar,Mediterranean,cheap,Williamsburg,9:00,17:00,4,true
+224,Deli Delight,Italian,medium,Astoria,10:00,21:00,4,false
+225,The Coffee House,Japanese,medium,Queens,11:30,16:00,2,false
+226,Mama Mia's Pizzeria,Japanese,medium,Manhattan,9:30,19:00,4,false
+227,Deli Delight,Mediterranean,cheap,Astoria,10:00,16:00,4,false
+228,Wok n Roll,Mexican,medium,Queens,11:00,19:00,5,false
+229,The Hungry Owl,Chinese,cheap,Bronx,9:30,20:00,2,false
+230,Pasta Paradise,Japanese,medium,Harlem,10:00,18:00,4,true
+231,Sizzle Grill,Japanese,medium,Staten Island,9:00,21:00,2,true
+232,Wok n Roll,Mediterranean,cheap,Astoria,11:30,21:00,3,false
+233,Cafe Luna,Mexican,medium,Bronx,11:30,17:00,2,true
+234,Cafe Luna,Mexican,cheap,Astoria,9:00,16:00,3,false
+235,Cafe Luna,Japanese,medium,Staten Island,9:00,19:00,3,false
+236,Burger Haven,Italian,cheap,Staten Island,9:00,16:00,4,false
+237,The Breakfast Nook,Indian,medium,Brooklyn,11:00,17:00,1,true
+238,Taco Town,Indian,cheap,Harlem,10:30,21:00,4,true
+239,Deli Delight,Indian,expensive,Greenwich Village,9:00,17:00,5,true
+240,Deli Delight,Chinese,expensive,Queens,12:00,16:00,3,true
+241,Green Leaf Salad Bar,Mexican,expensive,Queens,9:30,21:00,1,false
+242,Mama Mia's Pizzeria,Mediterranean,expensive,Staten Island,9:30,20:00,5,true
+243,The Spice Route,Mediterranean,expensive,Brooklyn,9:30,18:00,3,true
+244,Cafe Luna,Indian,expensive,Staten Island,9:00,20:00,4,false
+245,Taste of India,Korean,expensive,Staten Island,9:30,20:00,3,false
+246,Taco Town,Indian,expensive,Park Slope,10:00,20:00,2,false
+247,The Hungry Owl,Indian,expensive,Manhattan,9:00,18:00,2,true
+248,Mama Mia's Pizzeria,Chinese,expensive,Williamsburg,12:00,21:00,3,true
+249,The Hungry Owl,Japanese,cheap,Brooklyn,10:00,18:00,5,false
+250,Pizza Palace,Korean,cheap,Park Slope,12:00,21:00,1,false
+251,Sizzle Grill,Mexican,medium,Harlem,9:00,21:00,2,true
+252,Cafe Luna,Indian,expensive,Astoria,10:00,20:00,3,false
+253,Green Leaf Salad Bar,Mediterranean,cheap,Greenwich Village,10:30,16:00,5,false
+254,Pasta Paradise,Chinese,medium,Greenwich Village,12:00,19:00,2,true
+255,The Cheesecake Factory,Mediterranean,cheap,Harlem,9:30,17:00,3,false
+256,Mama Mia's Pizzeria,Japanese,expensive,Staten Island,10:30,19:00,5,false
+257,Deli Delight,Japanese,expensive,Brooklyn,9:00,20:00,5,false
+258,Pasta Paradise,Italian,expensive,Astoria,10:00,19:00,3,false
+259,Sushi Samurai,Italian,cheap,Greenwich Village,10:00,17:00,2,false
+260,Pasta Paradise,Japanese,medium,Harlem,11:00,16:00,3,false
+261,The Cheesecake Factory,Korean,medium,Staten Island,9:30,21:00,3,true
+262,Deli Delight,Japanese,expensive,Harlem,10:00,16:00,1,false
+263,Smokehouse BBQ,Mexican,expensive,Manhattan,10:00,18:00,2,true
+264,Sushi Samurai,Indian,expensive,Park Slope,10:00,17:00,4,false
+265,Taste of India,Mexican,cheap,Greenwich Village,10:00,18:00,2,false
+266,Sizzle Grill,Indian,medium,Staten Island,12:00,19:00,2,false
+267,Green Leaf Salad Bar,Korean,medium,Manhattan,10:30,19:00,3,false
+268,Sizzle Grill,Mediterranean,expensive,Harlem,12:00,18:00,4,false
+269,The Cheesecake Factory,Chinese,cheap,Park Slope,10:00,18:00,4,false
+270,The Cheesecake Factory,Chinese,cheap,Greenwich Village,10:00,19:00,3,true
+271,Burger Haven,Italian,cheap,Williamsburg,11:30,19:00,1,true
+272,Green Leaf Salad Bar,Mediterranean,cheap,Manhattan,9:00,19:00,4,false
+273,Ocean Breeze Seafood,Korean,expensive,Harlem,9:00,16:00,2,true
+274,Deli Delight,Mediterranean,expensive,Astoria,11:00,19:00,4,true
+275,Taste of India,Mexican,cheap,Manhattan,11:00,16:00,3,true
+276,Mama Mia's Pizzeria,Indian,medium,Astoria,11:30,19:00,3,true
+277,Sweet Treats Bakery,Mediterranean,cheap,Queens,9:30,17:00,1,false
+278,Burger Haven,Chinese,cheap,Astoria,11:00,21:00,5,true
+279,The Spice Route,Japanese,medium,Harlem,9:30,16:00,4,true
+280,The Cheesecake Factory,Mexican,expensive,Williamsburg,11:00,21:00,3,true
+281,The Coffee House,Italian,medium,Astoria,11:30,17:00,4,false
+282,The Spice Route,Indian,cheap,Staten Island,11:30,19:00,1,true
+283,Deli Delight,Indian,expensive,Brooklyn,10:00,18:00,5,true
+284,Mama Mia's Pizzeria,Mexican,medium,Park Slope,10:00,16:00,4,false
+285,Smokehouse BBQ,Mexican,cheap,Queens,11:30,19:00,5,true
+286,Ocean Breeze Seafood,Japanese,medium,Williamsburg,11:00,20:00,3,false
+287,The Hungry Owl,Chinese,cheap,Bronx,11:00,16:00,4,true
+288,Sizzle Grill,Mediterranean,cheap,Brooklyn,12:00,17:00,5,false
+289,The Spice Route,Mediterranean,cheap,Queens,11:30,19:00,1,true
+290,Pasta Paradise,Mexican,medium,Queens,10:00,19:00,2,true
+291,Green Leaf Salad Bar,Chinese,expensive,Harlem,11:30,17:00,4,true
+292,The Coffee House,Italian,expensive,Park Slope,12:00,16:00,1,false
+293,Sweet Treats Bakery,Korean,cheap,Brooklyn,12:00,20:00,5,false
+294,Sweet Treats Bakery,Japanese,expensive,Manhattan,11:00,17:00,2,false
+295,Sizzle Grill,Japanese,cheap,Harlem,9:00,21:00,1,true
+296,The Hungry Owl,Mexican,cheap,Astoria,12:00,21:00,3,true
+297,Sushi Samurai,Japanese,expensive,Queens,12:00,16:00,5,true
+298,Green Leaf Salad Bar,Indian,medium,Manhattan,9:30,20:00,1,false
+299,Burger Haven,Mediterranean,expensive,Brooklyn,10:30,20:00,5,false
+300,The Breakfast Nook,Chinese,cheap,Harlem,11:30,21:00,3,false
+301,Taco Town,Chinese,expensive,Manhattan,10:00,19:00,2,false
+302,Smokehouse BBQ,Chinese,cheap,Bronx,9:30,20:00,2,true
+303,Ocean Breeze Seafood,Mexican,medium,Manhattan,11:30,17:00,5,false
+304,Ocean Breeze Seafood,Mediterranean,medium,Queens,11:30,19:00,1,false
+305,The Cheesecake Factory,Mediterranean,medium,Astoria,9:30,19:00,4,true
+306,Taco Town,Indian,expensive,Astoria,9:00,21:00,2,true
+307,Ocean Breeze Seafood,Korean,cheap,Astoria,11:30,17:00,5,false
+308,Smokehouse BBQ,Mediterranean,cheap,Queens,10:00,19:00,4,true
+309,Smokehouse BBQ,Chinese,cheap,Staten Island,11:30,17:00,1,false
+310,Sizzle Grill,Japanese,expensive,Astoria,9:30,17:00,1,true
+311,Burger Haven,Mexican,cheap,Brooklyn,10:30,19:00,5,false
+312,Taco Town,Chinese,cheap,Astoria,10:00,18:00,2,true
+313,The Spice Route,Chinese,cheap,Staten Island,9:30,16:00,3,true
+314,Deli Delight,Italian,cheap,Harlem,9:00,19:00,5,false
+315,Burger Haven,Chinese,expensive,Staten Island,9:00,21:00,4,true
+316,The Cheesecake Factory,Indian,cheap,Williamsburg,9:30,18:00,1,false
+317,Deli Delight,Korean,expensive,Manhattan,11:30,18:00,2,false
+318,Pasta Paradise,Mediterranean,cheap,Park Slope,9:00,16:00,3,false
+319,Ocean Breeze Seafood,Indian,medium,Queens,11:00,18:00,3,false
+320,Burger Haven,Korean,medium,Manhattan,10:00,19:00,4,true
+321,Sushi Samurai,Mediterranean,expensive,Manhattan,12:00,21:00,1,true
+322,Taco Town,Mexican,expensive,Staten Island,9:30,17:00,1,true
+323,The Breakfast Nook,Indian,expensive,Queens,12:00,21:00,5,false
+324,Ocean Breeze Seafood,Italian,expensive,Queens,11:00,21:00,5,false
+325,The Cheesecake Factory,Italian,medium,Brooklyn,9:30,16:00,5,true
+326,Taco Town,Japanese,cheap,Manhattan,9:30,17:00,3,true
+327,Cafe Luna,Mexican,cheap,Astoria,9:00,16:00,4,true
+328,Green Leaf Salad Bar,Japanese,cheap,Brooklyn,9:30,17:00,4,false
+329,Mama Mia's Pizzeria,Japanese,cheap,Brooklyn,9:30,17:00,1,false
+330,Mama Mia's Pizzeria,Korean,medium,Bronx,10:30,21:00,1,true
+331,The Hungry Owl,Mexican,expensive,Bronx,11:30,19:00,4,true
+332,Sweet Treats Bakery,Japanese,medium,Bronx,12:00,16:00,3,true
+333,Mama Mia's Pizzeria,Japanese,medium,Manhattan,10:00,19:00,1,true
+334,Taco Town,Mexican,cheap,Bronx,11:30,17:00,4,false
+335,The Breakfast Nook,Italian,medium,Park Slope,10:30,20:00,4,false
+336,Burger Haven,Indian,expensive,Williamsburg,9:00,17:00,4,false
+337,The Hungry Owl,Korean,expensive,Williamsburg,12:00,19:00,1,true
+338,Mama Mia's Pizzeria,Mediterranean,medium,Bronx,9:00,20:00,5,false
+339,Pasta Paradise,Indian,cheap,Harlem,9:00,18:00,3,false
+340,Green Leaf Salad Bar,Korean,expensive,Manhattan,11:30,18:00,1,false
+341,Sizzle Grill,Chinese,medium,Park Slope,10:30,17:00,2,false
+342,The Hungry Owl,Mediterranean,expensive,Bronx,9:30,17:00,5,false
+343,The Hungry Owl,Mexican,medium,Staten Island,10:00,20:00,5,true
+344,The Breakfast Nook,Japanese,cheap,Astoria,11:30,16:00,2,false
+345,Smokehouse BBQ,Indian,medium,Park Slope,10:30,20:00,4,true
+346,Sizzle Grill,Indian,cheap,Harlem,9:00,21:00,3,false
+347,Taco Town,Mediterranean,cheap,Staten Island,10:30,20:00,3,true
+348,Cafe Luna,Japanese,expensive,Park Slope,10:30,17:00,1,false
+349,The Breakfast Nook,Mediterranean,expensive,Manhattan,10:30,19:00,3,false
+350,Burger Haven,Japanese,expensive,Williamsburg,9:00,21:00,4,true
+351,Burger Haven,Mexican,cheap,Greenwich Village,11:30,17:00,5,false
+352,Ocean Breeze Seafood,Japanese,expensive,Manhattan,11:00,16:00,3,true
+353,Ocean Breeze Seafood,Italian,expensive,Greenwich Village,9:00,16:00,3,false
+354,Ocean Breeze Seafood,Japanese,cheap,Harlem,9:00,17:00,4,true
+355,Sushi Samurai,Italian,cheap,Brooklyn,9:00,21:00,3,true
+356,The Coffee House,Mexican,cheap,Greenwich Village,12:00,19:00,1,true
+357,Ocean Breeze Seafood,Indian,cheap,Queens,10:00,17:00,1,false
+358,Pizza Palace,Indian,expensive,Park Slope,10:00,16:00,1,false
+359,The Breakfast Nook,Korean,medium,Manhattan,10:30,16:00,5,true
+360,Pasta Paradise,Japanese,cheap,Park Slope,11:30,18:00,1,false
+361,Green Leaf Salad Bar,Chinese,expensive,Brooklyn,9:00,21:00,5,false
+362,Taste of India,Indian,medium,Astoria,12:00,20:00,2,true
+363,Pizza Palace,Chinese,medium,Bronx,9:00,21:00,4,false
+364,Sushi Samurai,Mexican,cheap,Staten Island,11:30,18:00,5,true
+365,Cafe Luna,Japanese,medium,Williamsburg,12:00,18:00,1,false
+366,Ocean Breeze Seafood,Korean,cheap,Bronx,9:00,19:00,5,false
+367,Pasta Paradise,Mediterranean,medium,Queens,10:30,18:00,4,true
+368,Green Leaf Salad Bar,Japanese,expensive,Staten Island,11:30,20:00,4,true
+369,Taco Town,Mexican,medium,Harlem,10:00,18:00,1,false
+370,The Cheesecake Factory,Korean,cheap,Park Slope,9:00,16:00,2,false
+371,Pasta Paradise,Mediterranean,medium,Park Slope,9:00,19:00,5,false
+372,Taste of India,Indian,medium,Astoria,12:00,19:00,5,false
+373,Sweet Treats Bakery,Mediterranean,cheap,Queens,11:30,17:00,4,false
+374,Deli Delight,Chinese,medium,Greenwich Village,11:00,19:00,2,true
+375,Taste of India,Japanese,expensive,Bronx,10:30,16:00,1,false
+376,The Spice Route,Mexican,expensive,Harlem,9:00,16:00,2,true
+377,Burger Haven,Japanese,medium,Brooklyn,10:30,18:00,4,false
+378,Sweet Treats Bakery,Italian,cheap,Staten Island,11:00,20:00,3,false
+379,Ocean Breeze Seafood,Korean,expensive,Park Slope,9:00,21:00,5,false
+380,Deli Delight,Japanese,medium,Bronx,11:30,21:00,2,false
+381,Taste of India,Indian,cheap,Astoria,11:30,19:00,1,true
+382,The Spice Route,Italian,cheap,Harlem,11:00,21:00,4,false
+383,Taco Town,Chinese,medium,Williamsburg,9:00,21:00,3,true
+384,The Breakfast Nook,Indian,cheap,Harlem,11:00,19:00,3,true
+385,Green Leaf Salad Bar,Korean,medium,Manhattan,11:00,19:00,3,true
+386,Smokehouse BBQ,Italian,expensive,Astoria,11:30,17:00,3,false
+387,Cafe Luna,Korean,expensive,Park Slope,10:00,16:00,3,false
+388,Wok n Roll,Japanese,expensive,Astoria,10:00,20:00,3,true
+389,Burger Haven,Indian,expensive,Greenwich Village,10:30,18:00,2,true
+390,The Cheesecake Factory,Korean,expensive,Bronx,10:00,16:00,2,false
+391,The Spice Route,Mexican,cheap,Bronx,10:30,21:00,2,true
+392,Wok n Roll,Indian,expensive,Brooklyn,10:00,18:00,5,false
+393,Cafe Luna,Korean,cheap,Staten Island,12:00,21:00,2,false
+394,The Cheesecake Factory,Mediterranean,cheap,Brooklyn,10:30,21:00,4,false
+395,Pasta Paradise,Indian,medium,Staten Island,9:30,21:00,2,true
+396,Sushi Samurai,Mediterranean,medium,Williamsburg,10:00,21:00,2,false
+397,The Hungry Owl,Italian,cheap,Manhattan,12:00,19:00,1,false
+398,The Spice Route,Korean,medium,Brooklyn,9:30,19:00,5,false
+399,Taste of India,Mexican,expensive,Manhattan,10:30,19:00,3,false
+400,Burger Haven,Mexican,medium,Bronx,12:00,18:00,5,true
+401,The Breakfast Nook,Chinese,medium,Brooklyn,12:00,17:00,4,true
+402,Sweet Treats Bakery,Mediterranean,expensive,Astoria,11:00,19:00,5,true
+403,The Spice Route,Mexican,expensive,Brooklyn,11:30,18:00,2,false
+404,Sushi Samurai,Mediterranean,cheap,Greenwich Village,12:00,16:00,3,false
+405,Sushi Samurai,Chinese,medium,Harlem,10:30,17:00,1,false
+406,Pizza Palace,Japanese,medium,Staten Island,11:30,21:00,5,false
+407,Sweet Treats Bakery,Mexican,cheap,Bronx,12:00,19:00,1,false
+408,The Coffee House,Italian,medium,Park Slope,11:30,20:00,5,true
+409,Pizza Palace,Chinese,cheap,Astoria,11:30,20:00,1,true
+410,The Coffee House,Chinese,expensive,Staten Island,10:00,20:00,4,true
+411,The Hungry Owl,Japanese,medium,Greenwich Village,12:00,19:00,4,false
+412,Ocean Breeze Seafood,Japanese,cheap,Manhattan,11:30,17:00,5,true
+413,Pizza Palace,Italian,expensive,Bronx,11:00,21:00,2,false
+414,Mama Mia's Pizzeria,Korean,expensive,Staten Island,12:00,16:00,4,true
+415,Wok n Roll,Italian,cheap,Manhattan,10:00,21:00,3,false
+416,The Breakfast Nook,Mediterranean,expensive,Greenwich Village,10:30,20:00,5,false
+417,Burger Haven,Mediterranean,cheap,Greenwich Village,11:00,19:00,3,false
+418,Mama Mia's Pizzeria,Italian,cheap,Manhattan,10:30,16:00,1,false
+419,The Hungry Owl,Italian,cheap,Bronx,9:30,19:00,2,false
+420,The Coffee House,Indian,medium,Staten Island,11:30,17:00,3,true
+421,Wok n Roll,Japanese,medium,Bronx,9:30,18:00,4,false
+422,Cafe Luna,Chinese,expensive,Manhattan,12:00,18:00,2,true
+423,The Hungry Owl,Chinese,medium,Bronx,11:00,16:00,3,false
+424,The Cheesecake Factory,Chinese,expensive,Staten Island,9:30,19:00,1,true
+425,Pasta Paradise,Mexican,medium,Park Slope,9:30,21:00,1,true
+426,Smokehouse BBQ,Indian,cheap,Manhattan,11:00,18:00,4,true
+427,The Breakfast Nook,Japanese,cheap,Greenwich Village,10:00,21:00,4,false
+428,Ocean Breeze Seafood,Indian,medium,Greenwich Village,9:00,19:00,1,true
+429,Burger Haven,Indian,expensive,Astoria,12:00,19:00,3,false
+430,Pizza Palace,Japanese,medium,Manhattan,9:00,20:00,5,false
+431,The Coffee House,Mediterranean,medium,Greenwich Village,10:30,17:00,2,false
+432,Taco Town,Chinese,cheap,Bronx,9:00,20:00,3,false
+433,The Spice Route,Mediterranean,cheap,Park Slope,10:00,17:00,1,true
+434,Green Leaf Salad Bar,Korean,cheap,Manhattan,10:30,17:00,2,true
+435,The Breakfast Nook,Chinese,expensive,Harlem,9:30,20:00,1,false
+436,Sushi Samurai,Chinese,cheap,Bronx,11:30,16:00,3,true
+437,Taste of India,Korean,medium,Manhattan,12:00,16:00,1,true
+438,The Hungry Owl,Indian,medium,Brooklyn,12:00,21:00,3,true
+439,Burger Haven,Korean,medium,Park Slope,11:30,19:00,5,true
+440,Sizzle Grill,Italian,medium,Bronx,11:00,17:00,5,true
+441,Taco Town,Korean,cheap,Manhattan,12:00,20:00,3,false
+442,Deli Delight,Korean,expensive,Williamsburg,10:30,18:00,1,true
+443,Smokehouse BBQ,Korean,medium,Manhattan,11:30,17:00,3,false
+444,Sweet Treats Bakery,Mediterranean,expensive,Staten Island,10:30,20:00,3,true
+445,Smokehouse BBQ,Indian,expensive,Bronx,9:00,19:00,4,false
+446,Deli Delight,Mexican,medium,Williamsburg,9:30,16:00,1,false
+447,The Spice Route,Japanese,medium,Manhattan,11:30,18:00,5,true
+448,Sweet Treats Bakery,Korean,medium,Bronx,9:00,18:00,2,false
+449,Cafe Luna,Indian,medium,Harlem,9:30,18:00,5,false
+450,The Hungry Owl,Korean,expensive,Queens,10:30,19:00,2,true
+451,Green Leaf Salad Bar,Mexican,expensive,Brooklyn,11:30,21:00,1,false
+452,Mama Mia's Pizzeria,Chinese,expensive,Greenwich Village,10:30,16:00,5,true
+453,Cafe Luna,Mexican,expensive,Williamsburg,12:00,17:00,5,false
+454,The Hungry Owl,Korean,medium,Astoria,9:30,20:00,1,true
+455,Burger Haven,Italian,expensive,Park Slope,10:30,17:00,5,true
+456,Burger Haven,Mexican,expensive,Harlem,10:00,18:00,5,false
+457,The Hungry Owl,Mexican,cheap,Astoria,9:30,21:00,1,true
+458,Green Leaf Salad Bar,Mexican,medium,Park Slope,9:00,17:00,3,false
+459,The Hungry Owl,Mexican,medium,Astoria,11:00,20:00,3,true
+460,Pasta Paradise,Japanese,expensive,Staten Island,10:30,17:00,1,false
+461,Pizza Palace,Indian,cheap,Brooklyn,11:00,20:00,4,false
+462,Wok n Roll,Mexican,cheap,Park Slope,9:00,19:00,3,true
+463,Burger Haven,Japanese,cheap,Greenwich Village,9:00,21:00,4,true
+464,Sweet Treats Bakery,Indian,medium,Queens,9:30,19:00,5,false
+465,The Coffee House,Mexican,medium,Bronx,9:00,16:00,5,false
+466,Mama Mia's Pizzeria,Chinese,expensive,Manhattan,11:00,17:00,2,true
+467,The Spice Route,Mediterranean,medium,Bronx,9:00,21:00,5,true
+468,Deli Delight,Chinese,cheap,Astoria,10:30,16:00,2,false
+469,The Coffee House,Indian,expensive,Brooklyn,9:00,20:00,4,true
+470,Taco Town,Italian,expensive,Williamsburg,10:00,16:00,3,true
+471,Cafe Luna,Japanese,expensive,Williamsburg,10:00,20:00,3,false
+472,Sweet Treats Bakery,Indian,cheap,Harlem,10:00,16:00,4,true
+473,Mama Mia's Pizzeria,Italian,cheap,Greenwich Village,9:30,16:00,3,true
+474,Mama Mia's Pizzeria,Mediterranean,medium,Park Slope,9:00,16:00,5,false
+475,Deli Delight,Indian,cheap,Williamsburg,11:00,19:00,1,true
+476,The Coffee House,Chinese,expensive,Harlem,11:00,20:00,3,false
+477,Ocean Breeze Seafood,Mexican,cheap,Brooklyn,11:00,18:00,3,true
+478,Pizza Palace,Italian,expensive,Manhattan,11:30,18:00,1,false
+479,Sizzle Grill,Italian,cheap,Astoria,9:00,16:00,1,true
+480,The Spice Route,Korean,expensive,Manhattan,9:00,21:00,4,false
+481,Pasta Paradise,Korean,cheap,Queens,12:00,18:00,4,false
+482,Deli Delight,Indian,cheap,Harlem,9:30,16:00,5,true
+483,Wok n Roll,Chinese,cheap,Queens,10:30,19:00,2,true
+484,Sizzle Grill,Indian,expensive,Williamsburg,11:30,16:00,4,false
+485,Cafe Luna,Korean,expensive,Greenwich Village,10:00,20:00,4,true
+486,Wok n Roll,Korean,cheap,Manhattan,10:00,19:00,1,false
+487,The Spice Route,Chinese,medium,Brooklyn,11:30,18:00,1,true
+488,The Coffee House,Italian,expensive,Park Slope,11:00,19:00,1,true
+489,The Cheesecake Factory,Indian,cheap,Bronx,12:00,16:00,3,true
+490,The Coffee House,Italian,medium,Brooklyn,12:00,17:00,1,true
+491,Pasta Paradise,Korean,expensive,Staten Island,11:00,18:00,1,false
+492,Sweet Treats Bakery,Japanese,expensive,Brooklyn,10:00,20:00,4,true
+493,Deli Delight,Korean,expensive,Brooklyn,10:30,20:00,5,false
+494,The Spice Route,Italian,expensive,Bronx,9:30,17:00,1,false
+495,Pizza Palace,Mediterranean,cheap,Williamsburg,12:00,20:00,3,true
+496,Green Leaf Salad Bar,Mexican,expensive,Queens,11:30,21:00,4,true
+497,The Breakfast Nook,Mexican,medium,Manhattan,10:00,18:00,1,false
+498,The Coffee House,Korean,cheap,Manhattan,11:30,18:00,1,false
+499,Sushi Samurai,Italian,medium,Queens,9:30,19:00,1,true
+500,The Hungry Owl,Korean,cheap,Williamsburg,9:00,20:00,2,false
+501,Ocean Breeze Seafood,Italian,expensive,Queens,11:30,17:00,3,false
+502,Pasta Paradise,Mediterranean,expensive,Harlem,10:30,20:00,2,true
+503,Pizza Palace,Japanese,medium,Greenwich Village,12:00,20:00,3,false
+504,Mama Mia's Pizzeria,Italian,cheap,Park Slope,12:00,19:00,3,true
+505,The Breakfast Nook,Korean,medium,Bronx,12:00,17:00,4,false
+506,Green Leaf Salad Bar,Korean,cheap,Park Slope,9:00,21:00,4,false
+507,Green Leaf Salad Bar,Japanese,medium,Manhattan,9:30,17:00,4,false
+508,Sweet Treats Bakery,Chinese,cheap,Williamsburg,11:00,18:00,5,false
+509,Taco Town,Japanese,expensive,Bronx,10:30,18:00,1,true
+510,The Breakfast Nook,Korean,expensive,Staten Island,12:00,18:00,4,false
+511,Taco Town,Italian,cheap,Park Slope,10:00,20:00,2,false
+512,The Breakfast Nook,Italian,medium,Brooklyn,11:00,18:00,3,true
+513,Green Leaf Salad Bar,Chinese,cheap,Staten Island,12:00,18:00,5,false
+514,Ocean Breeze Seafood,Mexican,cheap,Queens,11:00,17:00,2,false
+515,Deli Delight,Italian,medium,Staten Island,11:30,16:00,5,true
+516,Wok n Roll,Mexican,expensive,Greenwich Village,9:00,21:00,1,true
+517,The Spice Route,Japanese,cheap,Manhattan,10:00,20:00,4,true
+518,Mama Mia's Pizzeria,Italian,expensive,Bronx,10:30,19:00,5,false
+519,Mama Mia's Pizzeria,Japanese,medium,Park Slope,9:30,16:00,2,false
+520,Ocean Breeze Seafood,Korean,medium,Bronx,9:00,17:00,5,false
+521,The Hungry Owl,Japanese,expensive,Greenwich Village,10:30,20:00,4,false
+522,Green Leaf Salad Bar,Chinese,medium,Brooklyn,11:30,18:00,2,true
+523,Pizza Palace,Mexican,cheap,Greenwich Village,11:00,20:00,1,true
+524,Wok n Roll,Japanese,expensive,Harlem,9:30,18:00,1,false
+525,Burger Haven,Mexican,medium,Park Slope,9:30,20:00,4,false
+526,Burger Haven,Italian,medium,Brooklyn,9:00,17:00,1,true
+527,Sushi Samurai,Japanese,cheap,Brooklyn,12:00,18:00,5,true
+528,The Hungry Owl,Mexican,medium,Harlem,10:30,20:00,5,false
+529,Green Leaf Salad Bar,Japanese,expensive,Staten Island,10:00,16:00,1,false
+530,Deli Delight,Korean,expensive,Manhattan,12:00,20:00,5,false
+531,Taco Town,Mediterranean,medium,Greenwich Village,11:30,19:00,1,true
+532,Cafe Luna,Italian,medium,Harlem,11:00,18:00,4,false
+533,Smokehouse BBQ,Korean,expensive,Greenwich Village,9:00,21:00,2,true
+534,Pizza Palace,Indian,cheap,Brooklyn,11:00,16:00,5,false
+535,Cafe Luna,Italian,expensive,Greenwich Village,12:00,20:00,3,false
+536,The Coffee House,Mediterranean,cheap,Bronx,11:00,16:00,2,true
+537,Mama Mia's Pizzeria,Chinese,cheap,Astoria,10:00,18:00,2,false
+538,Cafe Luna,Korean,cheap,Williamsburg,10:30,17:00,2,true
+539,The Breakfast Nook,Korean,expensive,Brooklyn,11:00,21:00,1,false
+540,Sushi Samurai,Mexican,medium,Queens,11:30,19:00,4,true
+541,Wok n Roll,Italian,medium,Staten Island,11:00,21:00,3,true
+542,Sushi Samurai,Mediterranean,cheap,Queens,11:30,20:00,1,true
+543,The Cheesecake Factory,Italian,cheap,Williamsburg,9:30,21:00,3,false
+544,Smokehouse BBQ,Mediterranean,medium,Manhattan,11:30,19:00,5,false
+545,Taste of India,Indian,expensive,Greenwich Village,9:30,20:00,5,false
+546,The Breakfast Nook,Chinese,expensive,Astoria,10:30,18:00,4,false
+547,Sweet Treats Bakery,Chinese,medium,Harlem,10:30,20:00,3,true
+548,Deli Delight,Chinese,expensive,Williamsburg,11:00,16:00,5,true
+549,The Spice Route,Korean,medium,Harlem,11:30,19:00,4,false
+550,Ocean Breeze Seafood,Mexican,expensive,Williamsburg,9:00,20:00,5,false
+551,Mama Mia's Pizzeria,Mediterranean,expensive,Bronx,12:00,18:00,4,true
+552,Cafe Luna,Chinese,medium,Manhattan,10:30,20:00,5,false
+553,The Breakfast Nook,Mexican,cheap,Queens,11:00,20:00,3,true
+554,The Hungry Owl,Korean,expensive,Astoria,10:30,18:00,5,false
+555,Green Leaf Salad Bar,Korean,cheap,Brooklyn,11:00,20:00,3,false
+556,The Spice Route,Chinese,medium,Brooklyn,9:00,16:00,3,false
+557,Wok n Roll,Italian,cheap,Manhattan,10:30,21:00,5,true
+558,The Breakfast Nook,Mediterranean,cheap,Manhattan,12:00,16:00,3,false
+559,The Hungry Owl,Italian,medium,Bronx,11:30,21:00,5,false
+560,The Hungry Owl,Mediterranean,expensive,Park Slope,12:00,21:00,3,false
+561,Sweet Treats Bakery,Korean,medium,Staten Island,9:00,16:00,3,false
+562,Cafe Luna,Italian,cheap,Brooklyn,10:30,19:00,5,true
+563,The Breakfast Nook,Mexican,medium,Greenwich Village,9:30,16:00,3,false
+564,Ocean Breeze Seafood,Indian,medium,Manhattan,9:00,19:00,5,false
+565,Deli Delight,Mexican,expensive,Park Slope,9:30,19:00,5,true
+566,Pasta Paradise,Mexican,cheap,Park Slope,10:30,18:00,4,false
+567,The Hungry Owl,Chinese,medium,Bronx,12:00,16:00,1,false
+568,Green Leaf Salad Bar,Mediterranean,medium,Park Slope,11:30,19:00,5,true
+569,Taco Town,Japanese,medium,Harlem,9:00,21:00,2,false
+570,Smokehouse BBQ,Indian,cheap,Staten Island,9:00,20:00,5,true
+571,Deli Delight,Mediterranean,medium,Park Slope,10:30,18:00,3,false
+572,Sushi Samurai,Indian,expensive,Astoria,10:00,20:00,5,false
+573,Sizzle Grill,Indian,medium,Williamsburg,9:30,19:00,3,true
+574,Burger Haven,Mexican,medium,Greenwich Village,10:30,21:00,4,false
+575,Burger Haven,Mexican,medium,Queens,10:00,17:00,4,true
+576,The Spice Route,Japanese,medium,Harlem,11:30,16:00,5,true
+577,Smokehouse BBQ,Italian,cheap,Park Slope,10:30,19:00,5,false
+578,Deli Delight,Mediterranean,cheap,Queens,9:30,16:00,4,true
+579,Burger Haven,Mexican,expensive,Park Slope,11:00,17:00,4,true
+580,Sizzle Grill,Mexican,cheap,Bronx,9:30,19:00,5,true
+581,Sushi Samurai,Mexican,cheap,Queens,9:00,16:00,5,true
+582,Green Leaf Salad Bar,Korean,expensive,Bronx,10:00,17:00,1,true
+583,Mama Mia's Pizzeria,Japanese,expensive,Bronx,11:00,16:00,5,true
+584,Taco Town,Italian,cheap,Park Slope,12:00,17:00,1,false
+585,Sizzle Grill,Japanese,medium,Bronx,11:30,20:00,4,true
+586,Ocean Breeze Seafood,Mexican,cheap,Brooklyn,9:00,19:00,5,true
+587,Mama Mia's Pizzeria,Chinese,medium,Harlem,9:00,20:00,4,false
+588,Deli Delight,Japanese,cheap,Bronx,10:00,18:00,3,true
+589,Smokehouse BBQ,Mexican,cheap,Greenwich Village,12:00,20:00,1,false
+590,The Cheesecake Factory,Japanese,medium,Williamsburg,11:30,20:00,4,true
+591,Taste of India,Korean,expensive,Williamsburg,12:00,18:00,3,true
+592,The Coffee House,Chinese,cheap,Bronx,11:30,16:00,2,true
+593,Green Leaf Salad Bar,Japanese,medium,Harlem,12:00,18:00,2,false
+594,Sweet Treats Bakery,Mexican,medium,Park Slope,11:00,16:00,4,false
+595,The Hungry Owl,Japanese,medium,Astoria,11:30,18:00,5,false
+596,Pasta Paradise,Korean,medium,Staten Island,9:00,19:00,3,false
+597,Burger Haven,Mediterranean,cheap,Bronx,11:30,17:00,5,false
+598,The Breakfast Nook,Mediterranean,cheap,Bronx,11:00,20:00,5,false
+599,Pizza Palace,Italian,cheap,Greenwich Village,11:00,16:00,2,true
+600,The Coffee House,Japanese,expensive,Williamsburg,9:00,17:00,2,false
+601,Taco Town,Chinese,medium,Queens,9:00,20:00,1,false
+602,Pasta Paradise,Mediterranean,cheap,Bronx,11:30,16:00,3,true
+603,Taste of India,Italian,cheap,Staten Island,11:00,17:00,3,true
+604,Wok n Roll,Mexican,cheap,Staten Island,12:00,21:00,2,true
+605,Sushi Samurai,Mediterranean,medium,Manhattan,11:00,20:00,4,false
+606,Cafe Luna,Mexican,cheap,Bronx,11:00,20:00,3,true
+607,The Breakfast Nook,Korean,cheap,Staten Island,12:00,21:00,2,true
+608,The Breakfast Nook,Korean,cheap,Park Slope,10:00,21:00,2,false
+609,The Spice Route,Mexican,medium,Astoria,11:30,17:00,2,true
+610,The Cheesecake Factory,Mediterranean,expensive,Greenwich Village,12:00,18:00,5,true
+611,Pizza Palace,Mediterranean,medium,Astoria,10:00,18:00,5,false
+612,The Spice Route,Chinese,expensive,Brooklyn,10:30,19:00,1,true
+613,The Spice Route,Mexican,medium,Astoria,12:00,21:00,2,false
+614,Pasta Paradise,Japanese,medium,Williamsburg,9:30,19:00,4,false
+615,Mama Mia's Pizzeria,Korean,cheap,Williamsburg,11:30,18:00,4,false
+616,Sweet Treats Bakery,Chinese,expensive,Manhattan,9:00,19:00,1,true
+617,The Coffee House,Mediterranean,cheap,Bronx,12:00,19:00,5,false
+618,The Coffee House,Chinese,expensive,Staten Island,10:30,17:00,5,true
+619,Taco Town,Mexican,expensive,Williamsburg,10:30,19:00,2,false
+620,Mama Mia's Pizzeria,Mexican,medium,Queens,10:30,16:00,1,false
+621,Ocean Breeze Seafood,Korean,expensive,Queens,9:30,21:00,4,false
+622,The Breakfast Nook,Indian,expensive,Manhattan,10:00,20:00,4,false
+623,Taste of India,Indian,medium,Queens,10:30,17:00,4,false
+624,Sushi Samurai,Mediterranean,medium,Queens,10:30,20:00,3,true
+625,Taste of India,Korean,cheap,Staten Island,9:30,17:00,3,false
+626,Deli Delight,Korean,medium,Brooklyn,11:00,19:00,4,true
+627,Pizza Palace,Mediterranean,expensive,Manhattan,10:30,16:00,5,false
+628,The Breakfast Nook,Korean,medium,Astoria,10:30,20:00,2,true
+629,Ocean Breeze Seafood,Mediterranean,expensive,Greenwich Village,10:00,17:00,4,true
+630,Ocean Breeze Seafood,Mediterranean,medium,Williamsburg,9:00,18:00,1,true
+631,Green Leaf Salad Bar,Italian,cheap,Staten Island,11:00,20:00,5,false
+632,Cafe Luna,Italian,cheap,Staten Island,10:00,16:00,3,true
+633,Sushi Samurai,Italian,cheap,Staten Island,9:00,21:00,5,false
+634,The Hungry Owl,Korean,expensive,Bronx,9:30,16:00,2,false
+635,The Breakfast Nook,Chinese,cheap,Harlem,11:30,16:00,3,true
+636,Sizzle Grill,Mediterranean,cheap,Greenwich Village,9:00,18:00,1,true
+637,Ocean Breeze Seafood,Japanese,cheap,Greenwich Village,9:00,21:00,3,false
+638,The Cheesecake Factory,Chinese,expensive,Queens,11:30,17:00,2,false
+639,The Breakfast Nook,Mexican,expensive,Greenwich Village,10:30,21:00,1,false
+640,The Spice Route,Indian,medium,Manhattan,9:00,21:00,3,false
+641,The Coffee House,Chinese,expensive,Staten Island,11:00,16:00,2,false
+642,The Coffee House,Indian,expensive,Greenwich Village,10:00,20:00,3,false
+643,Mama Mia's Pizzeria,Japanese,cheap,Astoria,10:00,17:00,4,true
+644,Taste of India,Chinese,medium,Brooklyn,10:00,19:00,1,false
+645,Wok n Roll,Chinese,medium,Greenwich Village,11:00,18:00,1,true
+646,Sweet Treats Bakery,Korean,expensive,Astoria,12:00,17:00,3,true
+647,Deli Delight,Chinese,cheap,Manhattan,10:00,19:00,3,false
+648,Pasta Paradise,Japanese,medium,Brooklyn,11:30,20:00,2,false
+649,Burger Haven,Italian,cheap,Brooklyn,10:30,19:00,5,true
+650,Cafe Luna,Japanese,cheap,Park Slope,9:00,21:00,4,false
+651,Deli Delight,Chinese,medium,Staten Island,11:30,21:00,4,true
+652,Cafe Luna,Mexican,medium,Queens,12:00,20:00,5,true
+653,The Hungry Owl,Italian,expensive,Harlem,11:00,18:00,4,true
+654,Smokehouse BBQ,Japanese,cheap,Williamsburg,11:00,17:00,3,false
+655,The Hungry Owl,Indian,expensive,Park Slope,11:30,18:00,4,false
+656,Pasta Paradise,Japanese,cheap,Greenwich Village,9:00,19:00,5,false
+657,Wok n Roll,Japanese,expensive,Staten Island,9:30,20:00,3,true
+658,Pasta Paradise,Indian,expensive,Williamsburg,10:30,19:00,1,true
+659,Smokehouse BBQ,Indian,medium,Astoria,10:30,17:00,3,false
+660,Ocean Breeze Seafood,Chinese,expensive,Manhattan,10:00,18:00,4,true
+661,Wok n Roll,Korean,cheap,Park Slope,12:00,17:00,4,false
+662,The Coffee House,Mediterranean,cheap,Park Slope,9:30,18:00,4,false
+663,Taco Town,Mexican,cheap,Park Slope,9:00,19:00,1,false
+664,Sweet Treats Bakery,Indian,cheap,Astoria,9:00,17:00,4,true
+665,Pasta Paradise,Korean,medium,Bronx,11:00,19:00,4,true
+666,The Cheesecake Factory,Japanese,cheap,Staten Island,12:00,20:00,2,true
+667,Sizzle Grill,Mediterranean,expensive,Park Slope,9:30,18:00,3,true
+668,Sushi Samurai,Mexican,cheap,Brooklyn,9:00,21:00,1,true
+669,Green Leaf Salad Bar,Japanese,cheap,Manhattan,10:30,16:00,1,false
+670,Taco Town,Indian,medium,Astoria,10:30,20:00,5,true
+671,Pizza Palace,Mexican,cheap,Williamsburg,10:00,16:00,2,false
+672,Green Leaf Salad Bar,Chinese,expensive,Manhattan,11:00,16:00,2,true
+673,Cafe Luna,Chinese,medium,Bronx,11:30,19:00,5,true
+674,Taco Town,Indian,medium,Manhattan,9:00,18:00,5,true
+675,Sushi Samurai,Japanese,cheap,Manhattan,11:00,21:00,2,true
+676,Wok n Roll,Mexican,medium,Staten Island,10:30,16:00,4,true
+677,Mama Mia's Pizzeria,Korean,expensive,Queens,9:00,21:00,3,false
+678,Taco Town,Chinese,expensive,Queens,10:30,21:00,1,true
+679,The Coffee House,Chinese,expensive,Queens,11:30,19:00,3,false
+680,The Coffee House,Italian,expensive,Greenwich Village,10:00,20:00,1,true
+681,Burger Haven,Korean,cheap,Queens,11:00,19:00,3,false
+682,The Breakfast Nook,Mexican,cheap,Manhattan,9:30,20:00,4,true
+683,Ocean Breeze Seafood,Mexican,expensive,Astoria,10:00,19:00,4,true
+684,Sizzle Grill,Italian,expensive,Park Slope,12:00,16:00,4,false
+685,The Hungry Owl,Indian,medium,Queens,10:30,16:00,2,true
+686,Deli Delight,Korean,medium,Queens,10:30,17:00,5,true
+687,Deli Delight,Mexican,medium,Harlem,10:30,20:00,2,false
+688,Cafe Luna,Chinese,medium,Williamsburg,10:00,16:00,1,true
+689,Taste of India,Chinese,medium,Greenwich Village,9:30,20:00,1,true
+690,Taste of India,Chinese,cheap,Staten Island,12:00,21:00,3,false
+691,The Coffee House,Indian,cheap,Harlem,11:30,16:00,4,false
+692,Sweet Treats Bakery,Indian,cheap,Staten Island,10:30,21:00,3,true
+693,The Coffee House,Italian,expensive,Harlem,12:00,17:00,5,false
+694,Wok n Roll,Japanese,medium,Bronx,12:00,18:00,3,false
+695,The Hungry Owl,Korean,cheap,Bronx,10:00,18:00,5,false
+696,Sweet Treats Bakery,Italian,medium,Manhattan,10:00,19:00,4,false
+697,Ocean Breeze Seafood,Mexican,cheap,Brooklyn,10:00,19:00,3,false
+698,Sweet Treats Bakery,Korean,medium,Brooklyn,12:00,18:00,5,false
+699,The Hungry Owl,Japanese,expensive,Bronx,11:00,20:00,4,true
+700,Cafe Luna,Japanese,medium,Greenwich Village,9:30,19:00,2,false
+701,Cafe Luna,Italian,medium,Williamsburg,10:00,19:00,5,true
+702,The Coffee House,Mediterranean,cheap,Williamsburg,9:30,19:00,5,true
+703,Green Leaf Salad Bar,Mexican,medium,Brooklyn,11:00,19:00,5,false
+704,Pasta Paradise,Mediterranean,cheap,Greenwich Village,10:30,21:00,1,true
+705,Burger Haven,Japanese,expensive,Staten Island,10:30,21:00,5,true
+706,Wok n Roll,Korean,medium,Queens,11:00,19:00,3,true
+707,Pizza Palace,Korean,medium,Greenwich Village,11:30,17:00,4,false
+708,Cafe Luna,Japanese,cheap,Manhattan,11:00,16:00,3,false
+709,Green Leaf Salad Bar,Mexican,expensive,Astoria,11:30,18:00,4,true
+710,Green Leaf Salad Bar,Chinese,medium,Williamsburg,11:30,18:00,2,false
+711,The Spice Route,Mexican,medium,Williamsburg,9:00,17:00,1,false
+712,Ocean Breeze Seafood,Chinese,expensive,Staten Island,12:00,18:00,4,false
+713,Sushi Samurai,Italian,expensive,Brooklyn,9:30,20:00,2,true
+714,The Hungry Owl,Italian,expensive,Bronx,11:30,19:00,4,true
+715,Pasta Paradise,Korean,cheap,Park Slope,10:00,17:00,5,true
+716,Sushi Samurai,Italian,cheap,Bronx,12:00,16:00,5,true
+717,Deli Delight,Japanese,expensive,Greenwich Village,12:00,21:00,5,true
+718,The Breakfast Nook,Italian,cheap,Greenwich Village,11:30,20:00,3,false
+719,Ocean Breeze Seafood,Indian,medium,Greenwich Village,10:30,16:00,5,true
+720,Taste of India,Mediterranean,expensive,Greenwich Village,12:00,21:00,1,false
+721,The Spice Route,Mediterranean,cheap,Bronx,9:00,20:00,4,false
+722,Taste of India,Indian,medium,Astoria,12:00,20:00,5,false
+723,Sushi Samurai,Italian,cheap,Greenwich Village,10:30,17:00,4,true
+724,Mama Mia's Pizzeria,Indian,cheap,Bronx,12:00,17:00,4,false
+725,Taste of India,Mexican,cheap,Queens,10:30,20:00,4,false
+726,Burger Haven,Italian,medium,Manhattan,9:00,18:00,2,false
+727,The Breakfast Nook,Chinese,medium,Greenwich Village,11:00,20:00,1,false
+728,The Breakfast Nook,Mexican,cheap,Bronx,10:30,18:00,3,false
+729,Sizzle Grill,Korean,expensive,Queens,10:30,16:00,5,false
+730,The Hungry Owl,Italian,expensive,Brooklyn,10:00,19:00,5,true
+731,The Breakfast Nook,Mediterranean,medium,Brooklyn,10:30,19:00,3,true
+732,The Cheesecake Factory,Mediterranean,cheap,Park Slope,10:30,17:00,3,true
+733,Smokehouse BBQ,Korean,cheap,Manhattan,12:00,21:00,2,true
+734,Deli Delight,Mexican,medium,Williamsburg,10:00,18:00,1,false
+735,Mama Mia's Pizzeria,Korean,expensive,Park Slope,12:00,20:00,5,false
+736,Deli Delight,Chinese,cheap,Williamsburg,10:30,19:00,3,false
+737,Sizzle Grill,Japanese,cheap,Harlem,9:30,19:00,1,false
+738,Pasta Paradise,Mediterranean,expensive,Queens,10:30,19:00,4,false
+739,The Coffee House,Italian,cheap,Bronx,12:00,19:00,3,true
+740,Wok n Roll,Korean,expensive,Greenwich Village,12:00,20:00,1,false
+741,Pasta Paradise,Indian,cheap,Bronx,11:30,19:00,1,false
+742,Green Leaf Salad Bar,Italian,expensive,Greenwich Village,9:30,20:00,4,true
+743,The Coffee House,Chinese,cheap,Greenwich Village,10:30,18:00,3,true
+744,Pizza Palace,Italian,medium,Williamsburg,12:00,17:00,4,false
+745,The Breakfast Nook,Indian,cheap,Staten Island,12:00,21:00,2,false
+746,Ocean Breeze Seafood,Chinese,cheap,Park Slope,11:30,21:00,1,true
+747,Pasta Paradise,Japanese,expensive,Manhattan,9:00,21:00,1,false
+748,Smokehouse BBQ,Chinese,cheap,Queens,11:00,21:00,5,false
+749,Green Leaf Salad Bar,Chinese,cheap,Park Slope,11:00,18:00,5,false
+750,Ocean Breeze Seafood,Italian,medium,Harlem,9:00,17:00,1,true
+751,The Spice Route,Chinese,expensive,Brooklyn,11:30,16:00,5,true
+752,Burger Haven,Mediterranean,cheap,Queens,10:30,17:00,4,true
+753,Burger Haven,Japanese,expensive,Harlem,11:30,20:00,5,true
+754,Pizza Palace,Chinese,medium,Williamsburg,9:00,18:00,3,false
+755,Pasta Paradise,Mexican,cheap,Staten Island,10:00,16:00,4,false
+756,The Coffee House,Korean,medium,Greenwich Village,10:00,17:00,4,true
+757,Cafe Luna,Japanese,expensive,Brooklyn,12:00,21:00,5,false
+758,Taco Town,Korean,expensive,Staten Island,9:30,20:00,4,false
+759,Wok n Roll,Mediterranean,expensive,Manhattan,9:30,19:00,2,false
+760,Smokehouse BBQ,Japanese,cheap,Bronx,11:00,20:00,2,true
+761,Cafe Luna,Mexican,expensive,Bronx,11:30,21:00,1,true
+762,Pasta Paradise,Mediterranean,expensive,Manhattan,11:00,20:00,4,false
+763,The Spice Route,Indian,expensive,Williamsburg,11:00,17:00,1,false
+764,Taco Town,Japanese,medium,Staten Island,10:30,18:00,3,false
+765,Wok n Roll,Italian,medium,Brooklyn,9:30,16:00,2,true
+766,Wok n Roll,Chinese,cheap,Bronx,11:00,18:00,3,false
+767,Taste of India,Indian,expensive,Greenwich Village,10:30,19:00,1,false
+768,Ocean Breeze Seafood,Indian,expensive,Harlem,9:00,16:00,3,true
+769,Pizza Palace,Mexican,expensive,Astoria,11:00,21:00,3,true
+770,The Coffee House,Korean,cheap,Queens,11:30,17:00,4,false
+771,Ocean Breeze Seafood,Chinese,medium,Harlem,10:30,20:00,5,true
+772,Green Leaf Salad Bar,Indian,expensive,Bronx,11:30,17:00,5,false
+773,Ocean Breeze Seafood,Mexican,expensive,Williamsburg,10:30,21:00,1,false
+774,Mama Mia's Pizzeria,Mediterranean,cheap,Brooklyn,9:00,19:00,5,false
+775,Sushi Samurai,Mexican,expensive,Staten Island,10:00,17:00,5,false
+776,Cafe Luna,Indian,medium,Harlem,10:00,21:00,5,false
+777,Burger Haven,Indian,medium,Harlem,10:00,19:00,3,false
+778,Green Leaf Salad Bar,Indian,cheap,Harlem,11:00,17:00,2,false
+779,The Coffee House,Italian,cheap,Harlem,11:00,19:00,5,false
+780,Mama Mia's Pizzeria,Mediterranean,expensive,Harlem,10:00,19:00,1,true
+781,Taste of India,Chinese,expensive,Brooklyn,12:00,20:00,4,false
+782,Sizzle Grill,Italian,medium,Manhattan,10:00,17:00,1,true
+783,Pasta Paradise,Chinese,expensive,Williamsburg,11:30,17:00,5,true
+784,Sizzle Grill,Italian,medium,Bronx,10:30,20:00,3,true
+785,Burger Haven,Mediterranean,medium,Manhattan,11:30,20:00,4,true
+786,Sushi Samurai,Mediterranean,expensive,Astoria,10:30,19:00,4,false
+787,The Breakfast Nook,Korean,cheap,Williamsburg,9:00,20:00,4,true
+788,Smokehouse BBQ,Mexican,cheap,Staten Island,10:00,17:00,1,false
+789,Pasta Paradise,Korean,expensive,Astoria,12:00,18:00,5,false
+790,Burger Haven,Italian,cheap,Queens,9:00,21:00,5,true
+791,The Cheesecake Factory,Indian,expensive,Staten Island,12:00,17:00,2,true
+792,Pizza Palace,Mexican,medium,Bronx,9:30,17:00,1,true
+793,Mama Mia's Pizzeria,Korean,medium,Staten Island,9:30,16:00,1,false
+794,Green Leaf Salad Bar,Japanese,expensive,Queens,9:30,19:00,4,true
+795,The Hungry Owl,Indian,cheap,Astoria,11:00,20:00,1,true
+796,Pasta Paradise,Japanese,cheap,Brooklyn,11:30,21:00,1,false
+797,Sizzle Grill,Indian,cheap,Staten Island,10:00,16:00,1,true
+798,Mama Mia's Pizzeria,Mediterranean,cheap,Harlem,11:00,17:00,1,true
+799,Deli Delight,Chinese,cheap,Park Slope,9:00,21:00,4,false
+800,Sweet Treats Bakery,Indian,cheap,Greenwich Village,9:00,18:00,1,false
+801,The Breakfast Nook,Mexican,expensive,Bronx,12:00,19:00,4,false
+802,Sweet Treats Bakery,Italian,expensive,Queens,10:30,18:00,1,false
+803,Sushi Samurai,Indian,cheap,Queens,12:00,17:00,4,false
+804,Mama Mia's Pizzeria,Indian,medium,Astoria,11:00,21:00,1,false
+805,The Spice Route,Chinese,medium,Williamsburg,10:00,18:00,3,true
+806,Sushi Samurai,Japanese,cheap,Queens,10:30,18:00,4,false
+807,Wok n Roll,Chinese,medium,Astoria,9:00,18:00,2,true
+808,Mama Mia's Pizzeria,Korean,medium,Staten Island,11:00,16:00,3,false
+809,Green Leaf Salad Bar,Japanese,medium,Staten Island,9:00,19:00,4,true
+810,Cafe Luna,Mexican,cheap,Astoria,12:00,16:00,3,true
+811,The Spice Route,Indian,medium,Staten Island,11:30,19:00,5,true
+812,Burger Haven,Chinese,medium,Brooklyn,11:30,16:00,4,false
+813,The Cheesecake Factory,Italian,medium,Queens,10:00,19:00,1,true
+814,Green Leaf Salad Bar,Mediterranean,medium,Park Slope,9:00,19:00,2,false
+815,Mama Mia's Pizzeria,Indian,expensive,Bronx,12:00,19:00,1,false
+816,Taste of India,Mediterranean,cheap,Harlem,11:30,19:00,4,false
+817,Ocean Breeze Seafood,Indian,expensive,Manhattan,11:30,16:00,1,false
+818,The Spice Route,Italian,cheap,Manhattan,9:00,17:00,2,true
+819,Green Leaf Salad Bar,Japanese,expensive,Staten Island,11:30,18:00,3,true
+820,Smokehouse BBQ,Mediterranean,expensive,Bronx,11:30,17:00,2,false
+821,The Breakfast Nook,Mexican,expensive,Astoria,11:30,17:00,1,false
+822,Taco Town,Mexican,cheap,Astoria,10:30,21:00,1,true
+823,The Coffee House,Korean,cheap,Staten Island,11:30,18:00,2,false
+824,Burger Haven,Chinese,medium,Queens,10:30,17:00,2,false
+825,Pasta Paradise,Japanese,cheap,Manhattan,11:00,21:00,4,false
+826,Green Leaf Salad Bar,Korean,medium,Staten Island,12:00,18:00,1,true
+827,The Cheesecake Factory,Japanese,medium,Astoria,9:30,21:00,5,false
+828,Sweet Treats Bakery,Japanese,medium,Greenwich Village,9:30,16:00,3,true
+829,The Cheesecake Factory,Mediterranean,expensive,Manhattan,10:30,17:00,3,true
+830,Deli Delight,Chinese,cheap,Astoria,10:30,20:00,3,true
+831,Deli Delight,Mexican,medium,Astoria,10:00,19:00,5,true
+832,The Hungry Owl,Korean,cheap,Harlem,11:30,18:00,2,false
+833,Sushi Samurai,Italian,cheap,Bronx,12:00,20:00,1,true
+834,Pizza Palace,Japanese,medium,Staten Island,11:00,20:00,3,false
+835,Cafe Luna,Mediterranean,cheap,Park Slope,11:00,18:00,3,true
+836,The Hungry Owl,Korean,expensive,Staten Island,11:00,21:00,5,true
+837,The Hungry Owl,Japanese,expensive,Brooklyn,11:30,18:00,2,false
+838,The Coffee House,Mexican,medium,Greenwich Village,11:30,19:00,3,false
+839,Pasta Paradise,Japanese,medium,Greenwich Village,10:30,17:00,2,true
+840,Taco Town,Korean,cheap,Williamsburg,9:30,17:00,2,false
+841,Sizzle Grill,Chinese,expensive,Bronx,11:30,18:00,3,false
+842,Burger Haven,Mediterranean,expensive,Bronx,12:00,18:00,3,true
+843,Sushi Samurai,Indian,expensive,Bronx,12:00,19:00,1,true
+844,Ocean Breeze Seafood,Indian,expensive,Harlem,12:00,19:00,3,false
+845,Burger Haven,Japanese,medium,Williamsburg,10:00,18:00,2,false
+846,Mama Mia's Pizzeria,Mexican,cheap,Manhattan,9:30,19:00,5,true
+847,The Cheesecake Factory,Indian,expensive,Queens,10:00,18:00,2,true
+848,Burger Haven,Mexican,medium,Staten Island,9:00,18:00,5,true
+849,Sizzle Grill,Mexican,cheap,Harlem,11:30,20:00,3,false
+850,Burger Haven,Mexican,expensive,Greenwich Village,10:30,19:00,5,true
+851,Ocean Breeze Seafood,Japanese,cheap,Queens,11:30,18:00,3,true
+852,Pasta Paradise,Mediterranean,medium,Staten Island,10:30,21:00,1,true
+853,Sizzle Grill,Japanese,cheap,Manhattan,10:30,18:00,2,false
+854,Pizza Palace,Korean,expensive,Williamsburg,10:30,16:00,3,false
+855,Sushi Samurai,Korean,expensive,Williamsburg,10:00,17:00,5,true
+856,Cafe Luna,Indian,medium,Park Slope,11:30,18:00,3,false
+857,Taste of India,Japanese,medium,Queens,11:00,21:00,4,true
+858,Sushi Samurai,Chinese,expensive,Astoria,11:30,19:00,1,false
+859,The Spice Route,Chinese,expensive,Queens,10:30,16:00,5,true
+860,The Coffee House,Mexican,cheap,Park Slope,11:00,19:00,2,false
+861,Cafe Luna,Korean,expensive,Bronx,12:00,17:00,1,false
+862,The Breakfast Nook,Korean,expensive,Staten Island,9:30,16:00,2,false
+863,The Cheesecake Factory,Italian,medium,Staten Island,9:00,17:00,2,false
+864,Sushi Samurai,Chinese,medium,Harlem,10:30,18:00,5,true
+865,Mama Mia's Pizzeria,Chinese,medium,Astoria,10:30,20:00,5,true
+866,The Breakfast Nook,Korean,medium,Williamsburg,11:00,21:00,1,false
+867,The Spice Route,Indian,medium,Staten Island,11:00,18:00,2,true
+868,Burger Haven,Korean,cheap,Greenwich Village,9:30,21:00,3,true
+869,Smokehouse BBQ,Japanese,expensive,Williamsburg,10:30,17:00,3,true
+870,Deli Delight,Korean,cheap,Astoria,11:30,16:00,1,false
+871,Sushi Samurai,Korean,cheap,Greenwich Village,11:30,16:00,3,false
+872,Green Leaf Salad Bar,Mediterranean,medium,Queens,11:30,16:00,2,true
+873,Deli Delight,Korean,medium,Brooklyn,11:00,17:00,3,true
+874,Wok n Roll,Indian,medium,Greenwich Village,11:00,21:00,5,true
+875,The Cheesecake Factory,Italian,cheap,Brooklyn,10:30,21:00,5,true
+876,Sizzle Grill,Italian,medium,Astoria,12:00,19:00,1,true
+877,Deli Delight,Korean,cheap,Bronx,11:00,21:00,2,true
+878,Deli Delight,Chinese,medium,Williamsburg,11:00,21:00,3,true
+879,Taco Town,Korean,expensive,Park Slope,10:30,19:00,1,true
+880,Wok n Roll,Mexican,expensive,Staten Island,9:30,18:00,1,true
+881,The Spice Route,Korean,cheap,Bronx,9:00,19:00,2,false
+882,Taste of India,Italian,medium,Williamsburg,9:00,19:00,3,false
+883,The Hungry Owl,Indian,medium,Astoria,11:30,17:00,2,false
+884,Taco Town,Korean,expensive,Brooklyn,9:30,20:00,4,false
+885,Taco Town,Mexican,cheap,Williamsburg,12:00,21:00,3,true
+886,Burger Haven,Indian,medium,Williamsburg,9:30,16:00,1,true
+887,Sweet Treats Bakery,Italian,cheap,Park Slope,11:00,18:00,1,true
+888,Cafe Luna,Italian,medium,Williamsburg,9:00,19:00,3,false
+889,Sweet Treats Bakery,Mediterranean,medium,Queens,11:00,20:00,3,true
+890,The Hungry Owl,Mexican,medium,Harlem,12:00,18:00,1,true
+891,Cafe Luna,Mediterranean,cheap,Queens,9:30,21:00,4,false
+892,Taste of India,Korean,medium,Park Slope,9:30,21:00,4,true
+893,Pizza Palace,Japanese,cheap,Staten Island,10:30,16:00,5,false
+894,Pizza Palace,Mexican,cheap,Manhattan,12:00,18:00,3,true
+895,Wok n Roll,Italian,medium,Staten Island,10:00,20:00,4,true
+896,Smokehouse BBQ,Korean,cheap,Astoria,12:00,21:00,4,true
+897,Taco Town,Mexican,medium,Williamsburg,10:30,21:00,5,true
+898,Green Leaf Salad Bar,Mediterranean,medium,Harlem,9:00,19:00,3,false
+899,The Cheesecake Factory,Mexican,medium,Park Slope,10:30,16:00,1,false
+900,Green Leaf Salad Bar,Chinese,medium,Queens,10:30,21:00,5,false
+901,The Breakfast Nook,Mediterranean,expensive,Astoria,9:00,20:00,4,false
+902,Taco Town,Chinese,medium,Astoria,9:30,20:00,3,true
+903,Sizzle Grill,Mediterranean,expensive,Bronx,10:30,18:00,1,true
+904,Sushi Samurai,Italian,medium,Brooklyn,12:00,16:00,4,true
+905,Taste of India,Indian,expensive,Williamsburg,12:00,19:00,1,true
+906,The Cheesecake Factory,Indian,expensive,Park Slope,9:30,17:00,3,true
+907,The Spice Route,Japanese,cheap,Queens,11:00,18:00,5,true
+908,Pasta Paradise,Italian,cheap,Queens,12:00,18:00,4,true
+909,The Breakfast Nook,Mediterranean,medium,Staten Island,10:00,16:00,5,false
+910,Green Leaf Salad Bar,Mexican,medium,Brooklyn,11:30,17:00,3,false
+911,Burger Haven,Korean,expensive,Queens,11:00,16:00,2,true
+912,Smokehouse BBQ,Mediterranean,expensive,Queens,9:30,20:00,3,false
+913,Taste of India,Japanese,cheap,Park Slope,11:30,18:00,3,true
+914,Taste of India,Mexican,cheap,Staten Island,10:00,20:00,3,false
+915,The Hungry Owl,Japanese,medium,Williamsburg,9:00,21:00,2,true
+916,Sizzle Grill,Mexican,expensive,Queens,10:00,21:00,1,false
+917,Burger Haven,Italian,medium,Bronx,10:00,20:00,4,true
+918,Pizza Palace,Mexican,expensive,Park Slope,10:30,17:00,4,true
+919,The Coffee House,Korean,medium,Harlem,9:30,20:00,2,true
+920,Mama Mia's Pizzeria,Chinese,expensive,Bronx,11:00,21:00,3,false
+921,Taco Town,Japanese,expensive,Harlem,10:00,19:00,3,false
+922,The Coffee House,Italian,medium,Queens,11:00,17:00,5,true
+923,Green Leaf Salad Bar,Mediterranean,medium,Queens,12:00,21:00,2,false
+924,Ocean Breeze Seafood,Mediterranean,expensive,Astoria,10:00,18:00,5,false
+925,The Hungry Owl,Chinese,medium,Greenwich Village,11:30,17:00,4,true
+926,Deli Delight,Japanese,cheap,Greenwich Village,12:00,18:00,1,true
+927,Smokehouse BBQ,Italian,cheap,Harlem,12:00,21:00,5,true
+928,Pasta Paradise,Japanese,expensive,Manhattan,10:30,21:00,2,true
+929,Pasta Paradise,Korean,expensive,Astoria,11:00,20:00,3,true
+930,The Spice Route,Italian,medium,Manhattan,10:00,19:00,4,true
+931,Green Leaf Salad Bar,Korean,expensive,Park Slope,11:00,16:00,2,true
+932,Ocean Breeze Seafood,Japanese,expensive,Williamsburg,9:00,21:00,1,true
+933,Smokehouse BBQ,Japanese,medium,Greenwich Village,10:00,21:00,1,true
+934,Pasta Paradise,Indian,expensive,Williamsburg,9:30,20:00,2,false
+935,The Hungry Owl,Korean,cheap,Staten Island,9:00,21:00,3,true
+936,Burger Haven,Italian,medium,Brooklyn,11:00,18:00,4,true
+937,Ocean Breeze Seafood,Mexican,medium,Park Slope,10:30,18:00,1,true
+938,Sushi Samurai,Indian,medium,Park Slope,12:00,17:00,3,true
+939,Wok n Roll,Mediterranean,cheap,Greenwich Village,10:30,18:00,4,true
+940,Mama Mia's Pizzeria,Mediterranean,expensive,Manhattan,10:00,20:00,4,false
+941,Wok n Roll,Italian,cheap,Manhattan,11:30,21:00,5,true
+942,Deli Delight,Japanese,medium,Brooklyn,10:30,16:00,1,true
+943,Smokehouse BBQ,Indian,cheap,Park Slope,12:00,18:00,2,false
+944,The Breakfast Nook,Italian,medium,Williamsburg,9:30,18:00,4,false
+945,Taste of India,Indian,medium,Manhattan,9:00,18:00,5,true
+946,Cafe Luna,Korean,medium,Harlem,10:00,18:00,5,false
+947,Cafe Luna,Korean,medium,Harlem,11:00,16:00,4,false
+948,Burger Haven,Chinese,cheap,Harlem,11:30,17:00,5,false
+949,Sizzle Grill,Italian,expensive,Astoria,10:30,20:00,3,false
+950,Pasta Paradise,Italian,cheap,Harlem,11:00,20:00,5,true
+951,The Cheesecake Factory,Chinese,expensive,Queens,10:00,18:00,2,true
+952,Deli Delight,Italian,expensive,Williamsburg,11:00,16:00,3,true
+953,Pasta Paradise,Indian,medium,Williamsburg,11:30,19:00,1,true
+954,Burger Haven,Chinese,cheap,Park Slope,11:00,16:00,5,true
+955,Sushi Samurai,Chinese,medium,Bronx,11:30,17:00,1,true
+956,The Hungry Owl,Korean,medium,Greenwich Village,11:00,20:00,2,false
+957,Green Leaf Salad Bar,Italian,expensive,Astoria,9:00,21:00,3,false
+958,Ocean Breeze Seafood,Indian,medium,Astoria,9:30,20:00,1,false
+959,Taste of India,Japanese,expensive,Greenwich Village,9:30,19:00,2,false
+960,The Breakfast Nook,Indian,medium,Queens,11:00,18:00,1,false
+961,The Breakfast Nook,Indian,cheap,Park Slope,11:30,20:00,2,true
+962,Ocean Breeze Seafood,Mediterranean,medium,Williamsburg,11:30,16:00,5,false
+963,Sweet Treats Bakery,Mediterranean,cheap,Manhattan,11:00,20:00,1,false
+964,The Spice Route,Indian,cheap,Williamsburg,9:30,16:00,5,true
+965,The Hungry Owl,Japanese,cheap,Williamsburg,9:30,16:00,1,true
+966,Mama Mia's Pizzeria,Italian,expensive,Park Slope,9:30,19:00,4,false
+967,The Hungry Owl,Italian,cheap,Greenwich Village,11:00,21:00,4,true
+968,Sushi Samurai,Korean,medium,Staten Island,12:00,17:00,1,false
+969,The Hungry Owl,Mediterranean,medium,Astoria,10:30,16:00,4,true
+970,The Cheesecake Factory,Mediterranean,medium,Astoria,10:30,21:00,5,true
+971,Mama Mia's Pizzeria,Japanese,cheap,Brooklyn,9:30,17:00,4,true
+972,Cafe Luna,Mediterranean,expensive,Williamsburg,9:30,18:00,4,true
+973,Taste of India,Korean,expensive,Park Slope,11:30,18:00,2,false
+974,Taco Town,Italian,cheap,Harlem,9:30,21:00,2,false
+975,Sweet Treats Bakery,Mexican,cheap,Manhattan,12:00,17:00,3,true
+976,Smokehouse BBQ,Mediterranean,expensive,Williamsburg,10:30,19:00,4,false
+977,Taco Town,Japanese,cheap,Astoria,9:00,21:00,4,true
+978,Burger Haven,Japanese,cheap,Harlem,10:30,21:00,5,false
+979,Sushi Samurai,Japanese,cheap,Brooklyn,10:00,19:00,4,false
+980,The Coffee House,Japanese,cheap,Williamsburg,9:00,17:00,4,false
+981,Wok n Roll,Italian,medium,Astoria,9:30,17:00,4,true
+982,The Breakfast Nook,Indian,cheap,Harlem,9:00,19:00,3,true
+983,Wok n Roll,Mexican,cheap,Harlem,9:00,21:00,2,false
+984,Green Leaf Salad Bar,Mediterranean,expensive,Staten Island,10:30,18:00,2,true
+985,The Cheesecake Factory,Japanese,medium,Brooklyn,9:30,18:00,4,false
+986,The Cheesecake Factory,Mexican,medium,Staten Island,9:30,20:00,3,true
+987,The Hungry Owl,Mediterranean,medium,Manhattan,10:30,18:00,4,true
+988,Pasta Paradise,Italian,cheap,Williamsburg,10:30,21:00,2,false
+989,Pasta Paradise,Mexican,cheap,Park Slope,10:30,20:00,4,false
+990,The Hungry Owl,Mexican,expensive,Manhattan,11:30,17:00,1,false
+991,Smokehouse BBQ,Italian,cheap,Queens,11:30,16:00,2,true
+992,Mama Mia's Pizzeria,Italian,medium,Astoria,11:00,16:00,1,true
+993,Green Leaf Salad Bar,Chinese,cheap,Manhattan,10:30,19:00,3,true
+994,Ocean Breeze Seafood,Mediterranean,cheap,Greenwich Village,10:00,20:00,2,true
+995,Smokehouse BBQ,Mexican,cheap,Bronx,10:30,18:00,4,false
+996,Green Leaf Salad Bar,Chinese,expensive,Staten Island,9:30,18:00,3,false
+997,The Hungry Owl,Italian,cheap,Greenwich Village,12:00,20:00,5,false
+998,Pizza Palace,Chinese,medium,Bronx,12:00,19:00,3,true
+999,The Cheesecake Factory,Mexican,medium,Harlem,12:00,21:00,2,false
+1000,Cafe Luna,Korean,medium,Williamsburg,10:00,20:00,2,false
