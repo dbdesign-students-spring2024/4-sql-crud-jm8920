@@ -67,7 +67,7 @@ SELECT neighborhood, COUNT(*) AS 'Number of Restaurants' FROM restaurants GROUP 
 
 ## Part 2: Social media app
 ### Tables
-I create a database called restaurants.db.
+I create a database called socialmedia.db
 ```
 sqlite3 socialmedia.db
 ```
@@ -117,7 +117,7 @@ VALUES ('message', 'mjarvisf', 'lwittletonf', 'Nice to meet you!!!', '2023-03-19
 
 3. Create a new Story by a particular User (pick any User for example).
 ```sql
-INSERT INTO posts (posy_type, sender, content, post_time, is_visible)
+INSERT INTO posts (post_type, sender, content, post_time, is_visible)
     VALUES ('story', (SELECT id FROM users WHERE email='rsmead8@wsj.com','2023-03-19 06:48', TRUE), 'Enjoying a lovely afternoon!')
 ```
 
