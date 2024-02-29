@@ -66,7 +66,7 @@ SELECT neighborhood, COUNT(*) AS 'Number of Restaurants' FROM restaurants GROUP 
 ```
 
 ## Part 2: Social media app
-### Creating 2 Tables for users and posts
+### Tables
 I create a database called restaurants.db.
 ```
 sqlite3 socialmedia.db
@@ -106,7 +106,7 @@ And I import my practice data into it, here is the code:
 Write a single SQL query to perform each of the followin tasks:
 1. Register a new User.
 ```sql
-insert into users (email, username, password)
+INSERT INTO users (email, username, password)
     values ('newuser@email.com', 'newnewnew', '12345678');
 ```
 2. Create a new Message sent by a particular User to a particular User (pick any two Users for example).
@@ -117,8 +117,8 @@ VALUES ('message', 'mjarvisf', 'lwittletonf', 'Nice to meet you!!!', '2023-03-19
 
 3. Create a new Story by a particular User (pick any User for example).
 ```sql
-insert into posts (posy_type, sender, content, post_time, is_visible)
-    values ('story', (select id from users where email='rsmead8@wsj.com','2023/3/19 06:48', TRUE), 'Enjoying a lovely afternoon!')
+INSERT INTO posts (posy_type, sender, content, post_time, is_visible)
+    VALUES ('story', (SELECT id FROM users WHERE email='rsmead8@wsj.com','2023-03-19 06:48', TRUE), 'Enjoying a lovely afternoon!')
 ```
 
 4. Show the 10 most recent visible Messages and Stories, in order of recency.
